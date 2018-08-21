@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es6"
+    ],
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "strict": true
+  }
+}
