@@ -40,3 +40,5 @@ let myObjNoFn: MyObjectNoFunction = {
         name: "wtf"
     }
 };
+
+// More weirdness, if I don't include es6 in my tsconfig, everything compiles
